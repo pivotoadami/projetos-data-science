@@ -20,8 +20,7 @@ My credentials include a B.A in Electric enginnering, modality electronics, emph
 * [Instagram](https://www.instagram.com/rafael_adami/)
 
 
-## Projetos:
-Veja a lista de tutoriais:
+## Projects and tutorials:
 
 * **Examples using numpy python package to data science projects:** https://bit.ly/3aniOmX
 * **Python code using opencv library to detect faces in an image.:** https://bit.ly/3oDfjxS
